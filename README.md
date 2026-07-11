@@ -31,3 +31,9 @@ https://github.com/Umar-7272/Smart-Hire
 
 - LinkedIn: (Add your LinkedIn profile here)
 - Email: (Add your email here)
+
+- ## 📊 GitHub Stats
+
+![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umar-7272&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-7272&layout=compact&theme=tokyonight)
