@@ -37,3 +37,7 @@ https://github.com/Umar-7272/Smart-Hire
 ![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umar-7272&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-7272&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Umar-7272&theme=tokyonight)
