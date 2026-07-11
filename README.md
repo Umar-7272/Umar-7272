@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Umar Farooq 👋
 
-<!--
-**Umar-7272/Umar-7272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 AI & Web Developer
 
-Here are some ideas to get you started:
+I am a Computer Science student passionate about building modern web applications using ASP.NET, C#, SQL Server and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- ASP.NET Core MVC
+- C#
+- SQL Server
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Git & GitHub
+
+## 🚀 Featured Project
+
+### Smart-Hire
+A Job Portal built with ASP.NET Core MVC.
+
+🔗 Repository:
+https://github.com/Umar-7272/Smart-Hire
+
+## 📫 Connect with Me
+
+- LinkedIn: (Add your LinkedIn profile here)
+- Email: (Add your email here)
