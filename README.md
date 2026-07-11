@@ -1,8 +1,8 @@
-# Hi, I'm Umar Farooq 👋
+# Hi, I'm Umar Farooq 
 
 ## 💻 AI & Web Developer
 
-I am a Computer Science student passionate about building modern web applications using ASP.NET, C#, SQL Server and JavaScript.
+I am a Computer Science student from Pakistan passionate about building modern web applications using ASP.NET Core MVC, C#, SQL Server, HTML, CSS and JavaScript. I enjoy learning new technologies and creating real-world projects.
 
 ## 🛠 Skills
 
