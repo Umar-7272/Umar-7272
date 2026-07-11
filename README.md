@@ -45,3 +45,7 @@ https://github.com/Umar-7272/Smart-Hire
 ## 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umar-7272&theme=tokyo-night)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Umar-7272&color=blue)
