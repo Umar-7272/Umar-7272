@@ -41,3 +41,7 @@ https://github.com/Umar-7272/Smart-Hire
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Umar-7272&theme=tokyonight)
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umar-7272&theme=tokyo-night)
