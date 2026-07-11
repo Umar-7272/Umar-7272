@@ -15,6 +15,10 @@ I am a Computer Science student passionate about building modern web application
 - Bootstrap
 - Git & GitHub
 
+- <p align="left">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,mysql,git,github,vscode,visualstudio" />
+</p>
+
 ## 🚀 Featured Project
 
 ### Smart-Hire
