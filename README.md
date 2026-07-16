@@ -1,51 +1,101 @@
-# Hi, I'm Umar Farooq 
+# Hi 👋, I'm Umar Farooq
 
-## 💻 AI & Web Developer
+## 🚀 AI & Full Stack Web Developer
 
-I am a Computer Science student from Pakistan passionate about building modern web applications using ASP.NET Core MVC, C#, SQL Server, HTML, CSS and JavaScript. I enjoy learning new technologies and creating real-world projects.
+🎓 BS Computer Science Student (NUML)
 
-## 🛠 Skills
+💻 Passionate about building modern websites and web applications.
+
+🌍 Based in Pakistan
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on ASP.NET Core MVC Projects
+- 🌱 Learning AI Integration & Advanced Web Development
+- 💼 Open for Freelance Projects
+- 🎯 Goal: Become a Top Rated Freelancer
+- ⚡ Love solving real-world business problems using technology
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+HTML5 • CSS3 • Bootstrap • JavaScript
+
+### Backend
+
+ASP.NET Core MVC • C# • PHP
+
+### Database
+
+SQL Server • MySQL
+
+### Tools
+
+Git • GitHub • Visual Studio • VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Smart Hire
+
+AI Powered Job Portal
 
 - ASP.NET Core MVC
-- C#
 - SQL Server
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Git & GitHub
+- Authentication
+- Admin Dashboard
 
-- <p align="left">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,mysql,git,github,vscode,visualstudio" />
-</p>
+---
 
-## 🚀 Featured Project
+### 🔹 Ad Doha
 
-### Smart-Hire
-A Job Portal built with ASP.NET Core MVC.
+Modern Clothing Website
 
-🔗 Repository:
-https://github.com/Umar-7272/Smart-Hire
+- Responsive Design
+- AI Integration
+- Modern UI
 
-## 📫 Connect with Me
+---
 
-- LinkedIn: (Add your LinkedIn profile here)
-- Email: (Add your email here)
+### 🔹 KirayaHub
 
-- ## 📊 GitHub Stats
+House Rental Platform
 
-![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umar-7272&show_icons=true&theme=tokyonight)
+- Property Listing
+- Search System
+- Clean Interface
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-7272&layout=compact&theme=tokyonight)
+---
 
-## 🔥 GitHub Streak
+### 🔹 Student Job Portal
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Umar-7272&theme=tokyonight)
+Platform for students to find jobs.
 
-## 📈 Contribution Graph
+---
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umar-7272&theme=tokyo-night)
+### 🔹 Online Student Record
 
-## 👀 Profile Views
+Student Management System
 
-![](https://komarev.com/ghpvc/?username=Umar-7272&color=blue)
+---
+
+## 📫 Connect With Me
+
+Portfolio:
+https://umar-7272.github.io/portfolio-website/
+
+GitHub:
+https://github.com/Umar-7272
+
+Email:
+your-email@example.com
+
+---
+
+⭐ Thanks for visiting my profile!
