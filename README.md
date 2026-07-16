@@ -65,6 +65,15 @@ Git • GitHub • Visual Studio • VS Code
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,dotnet,php,mysql,git,github,vscode,visualstudio" />
+</p>
+## 🚀 Currently Learning
+
+- 🤖 AI Powered Web Development
+- ⚡ ASP.NET Core MVC
+- 🗄️ SQL Server
+- 🌐 Modern Responsive Web Design
 
 ---
 
