@@ -119,7 +119,7 @@ Modern e-commerce clothing website with responsive design and clean user experie
 
 # 🌎 Let's Connect
 
-📧 Email: your-email@example.com
+📧 Email: malikunar2004@gmail.com
 
 💼 Fiverr
 
